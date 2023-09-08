@@ -4,12 +4,12 @@
  * main - print the string in the put function
  *
  * Description: using the main function
- * this program prints with proper grammar, but the outcome is a piece of art
+ * this program prints "Programming is like building a multilingual puzzle
  * Return: 0
  */
 int main(void)
 {
-	puts("\"with proper grammar, but the outcome is a piece of art,");
+	puts("\"Programming is like building a multilingual puzzle");
 
 		return (0);
 }
