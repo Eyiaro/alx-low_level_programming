@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - print the string in the put function
- *
  * Description: using the main function
  * this program prints the size of various types 
  * on the computer it is compiled and run on
@@ -14,7 +13,6 @@ int main(void)
 	long li;
 	long long lli;
 	float f;
-
 	printf("Size of a char: %zu byte(s)\n", sizeof(c));
 	printf("Size of an int: %zu byte(s)\n", sizeof(i));
 	printf("Size of a long int: %zu byte(s)\n", sizeof(li));
